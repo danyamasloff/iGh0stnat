@@ -38,19 +38,9 @@
 
 ---
 
-## 📬 Контакты
+## 📬 Contacts:
 
 - 📧 Email: [danyamasloff@yandex.ru](mailto:danyamasloff@yandex.ru)  
 - 💬 Telegram: [@whitebeliy](https://t.me/whitebeliy)
 
 ---
-
-## ⚡ Подпись & вдохновение
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&lines=System+Engineer+%7C+Java+Developer;Backend+Craftsman+with+a+Purpose;Always+Learning%2C+Always+Shipping" />
-</p>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRhdGs3Z3hvMGp0NXIza256bTZlNHB3MTNlOXYzOHNnbWJ6ZHNtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cO1uqpX9FkkBaOLSoS/giphy.gif" alt="Бегущий бинарный код" width="600">
-</p>
